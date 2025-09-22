@@ -37,10 +37,11 @@ The PDF (Notes and Reports.pdf) includes structured reports across multiple doma
   **Scripting:** Python automation with requests, BeautifulSoup<br>
 
 🚀 **How to Use**
-  1. Open the Notes and Reports.pdf
-  2. Browse through categories (picoCTF, VulnHub, OSIRIS Recruit, etc.).
-  3. Try to solve challenges on your own before checking the write-ups.
-  4. Use the techniques and tools described for your own learning.
+  1. Download and Extract the 'Notes and Reports.zip' file.
+  2. Open the 'Notes and Reports.pdf'
+  3. Browse through categories (picoCTF, VulnHub, OSIRIS Recruit, etc.).
+  4. Try to solve challenges on your own before checking the write-ups.
+  5. Use the techniques and tools described for your own learning.
 
 📌 **Disclaimer**<br>
 This repository is strictly for educational purposes.<br>
